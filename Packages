@@ -7,7 +7,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.annabellica.katiekik.deb
 Size: 16000
 MD5sum: 51fa0d468cd73c23f0549baf022698a0
-Description: Modified Kik for iOS 13
+Description: Basic Kik Messenger Modifications for iOS 13.3 and up (untested on earlier versions). Features Katie adds to Kik include -> Disables GPS & Ad Tracking -> Disables all advertisements including In-Chat Banners -> Disables "is typing" status -> Disables Read Receipts -> Spoofs live pictures from camera roll -> Videos loop automatically -> Activates "Meet new people" -> Recolors the entire UI
 Name: KatieKik
 Author: @annabellica <annabel.sandford@web.de>
 Depiction:
